@@ -1,4 +1,4 @@
-# Simple-UBER-App
+# UberClone-CLI
 Hello there!
 
 The main program to compile and run is 'TMUberUI'.
